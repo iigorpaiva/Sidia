@@ -4,6 +4,5 @@ The tasks were solved in Python and were developed during a test on codility and
 
 ## Notas/Dificuldades:
 
-- `I spent a lot of time figuring out why task 1 was not working fine, there was something wrong on the size of the string causing a problem into loop. So I fixed and updated on this 
-repository; #FIXED`
+- `I spent some time trying to figure out why task 1 was not working fine, there was something wrong on the size of the string causing a problem into loop. So I fixed and updated on this repository; #FIXED`
 - `So I had a short time to understand task 3.`
