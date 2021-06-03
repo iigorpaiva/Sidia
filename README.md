@@ -1,6 +1,6 @@
 ## Sidia
 
-The tasks were solved in Python and were developed during a test on codility and they were revised by me later on that day, June 3rd.
+The tasks were solved in Python and were developed during a test on codility and they were revised by me later on that day, June 3.
 
 ## Notas/Dificuldades:
 
