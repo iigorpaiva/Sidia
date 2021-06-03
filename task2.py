@@ -10,5 +10,6 @@ def solution(S):
         if contador == 2:
             #print(S[i])
             return S[i]
-S = "aba"
-solution(S)
+            
+#S = "aba"
+#solution(S)
