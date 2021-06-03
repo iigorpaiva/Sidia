@@ -16,7 +16,6 @@ def solution(A, K, L):
         for i in range(K):
             sum(A[K])
             
-3
 A = [6, 1, 4, 6, 3, 2, 7, 4]
 K = 3
 L = 2
