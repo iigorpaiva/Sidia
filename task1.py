@@ -1,3 +1,11 @@
+# Sidia 
+# Test on Codility
+
+## Dev. Igor Ferreira de Paiva
+## June 3, 2021
+
+## TASK 1 ##
+
 def solution(S):
 
     size = len(S) - 1

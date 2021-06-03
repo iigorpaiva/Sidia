@@ -1,5 +1,10 @@
-# you can write to stdout for debugging purposes, e.g.
-# print("this is a debug message")
+# Sidia 
+# Test on Codility
+
+## Dev. Igor Ferreira de Paiva
+## June 3, 2021
+
+## TASK 2 ##
 
 def solution(S):
     size = len(S)
@@ -10,6 +15,6 @@ def solution(S):
         if contador == 2:
             #print(S[i])
             return S[i]
-            
+
 #S = "aba"
 #solution(S)
